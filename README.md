@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-CC--BY-blue)
 ![Status](https://img.shields.io/badge/Status-Archived-lightgrey)
 
-Welcome to the official **RdivxeAI Research Archive**. This repository contains papers, drafts, notes, and references documenting our work in artificial intelligence and deep learning.
+Welcome to the official **VFNResearch Archive**. This repository contains papers, drafts, notes, and references documenting our work in artificial intelligence and deep learning.
 
 ---
 
