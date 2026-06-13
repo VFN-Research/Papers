@@ -1,4 +1,4 @@
-# RdivxeAI Research Archive
+# VFN Research Archive
 
 ![License](https://img.shields.io/badge/License-CC--BY-blue)
 ![Status](https://img.shields.io/badge/Status-Archived-lightgrey)
