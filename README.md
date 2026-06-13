@@ -20,7 +20,7 @@ Welcome to the official **VFN Research Archive**. This repository contains paper
 ## Usage Guidelines
 
 - Materials are for academic research, study, and reference.  
-- Properly cite **RdivxeAI** when using any content.  
+- Properly cite **VFN** when using any content.  
 - Some content may be preliminary or theoretical—evaluate carefully before use.  
 
 ---
