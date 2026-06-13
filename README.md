@@ -35,8 +35,8 @@ Researchers are welcome to contribute drafts, notes, or references. Ensure accur
 If you use this repository in your research, please cite it as:
 
 ```bibtex
-@misc{RdivxeAI2023crossmodel,
-  author = {RdivxeAI},
+@misc{VFN2023crossmodel,
+  author = {VFN},
   title = {Cross-Model Vocabulary Transfer: Fine-Tuning BERT and GPT-2 Using Pretrained Vocabularies},
   year = {2023},
   publisher = {GitHub},
